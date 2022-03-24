@@ -1,0 +1,84 @@
+.formulario
+{
+    text-align: left;
+    height: 90%;
+    
+    color: antiquewhite;
+    
+    
+}
+
+footer
+{
+    background-color:  rgba(26, 29, 170, 0.582);
+    height: 100%;
+    width: 100%;
+    text-align: center;
+}
+
+.formas
+{
+    
+    justify-content: center;
+    flex-direction: column;
+    display: flex;
+    color: rgb(0, 0, 0);
+}
+p
+{
+    color: antiquewhite;
+}
+#titulo
+{
+   
+    background-color: rgba(26, 29, 170, 0.582);
+    height: 75px;
+    
+    /*border-bottom: 3px black solid;*/
+}
+
+.head
+{
+    text-align: center;
+    width: 100%;
+    color: rgb(255, 255, 255);
+    margin-bottom: 0px;
+}
+
+.cuerpo
+{
+    height: 300px;
+    background-image: url("fondo.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 550px;
+    margin: 0%;
+   
+   
+}
+
+.container-fluid
+{
+    height: 100%;
+}
+
+.derecha
+{
+    text-align: center;
+    color: antiquewhite;
+    margin: 10px;
+    
+    
+}
+
+.izquierda
+{
+    
+    background-color: rgba(33, 20, 146, 0.901);
+    margin: 10px;
+}
+
+data
+{
+    margin: 5px;
+}
